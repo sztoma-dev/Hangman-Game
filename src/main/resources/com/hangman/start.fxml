@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<Pane fx:controller="com.hangman.HangManController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="660.0" prefWidth="837.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="hint" alignment="CENTER" contentDisplay="CENTER" layoutX="228.0" layoutY="276.0" prefHeight="45.0" prefWidth="382.0" text="Type of word" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="guessingWord" alignment="CENTER" layoutX="178.0" layoutY="324.0" prefHeight="68.0" prefWidth="483.0" text="Guessing Word">
+         <font>
+            <Font size="46.0" />
+         </font></Label>
+      <Button fx:id="a" layoutX="260.0" layoutY="423.0" minWidth="60.0" mnemonicParsing="false" text="A">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Button fx:id="b" layoutX="324.0" layoutY="423.0" minWidth="60.0" mnemonicParsing="false" text="B">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="c" layoutX="388.0" layoutY="423.0" minWidth="60.0" mnemonicParsing="false" text="C">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="d" layoutX="452.0" layoutY="423.0" minWidth="60.0" mnemonicParsing="false" text="D">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="e" layoutX="516.0" layoutY="423.0" minWidth="60.0" mnemonicParsing="false" text="E">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="f" layoutX="100.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="F">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="g" layoutX="164.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="G">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="h" layoutX="228.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="H">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="i" layoutX="292.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="I">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="j" layoutX="356.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="J">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="k" layoutX="420.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="K">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="l" layoutX="484.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="L">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="m" layoutX="548.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="M">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="n" layoutX="612.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="N">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="o" layoutX="676.0" layoutY="487.0" minWidth="60.0" mnemonicParsing="false" text="O">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="p" layoutX="68.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="P">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="q" layoutX="132.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="Q">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="r" layoutX="196.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="R">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="s" layoutX="260.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="S">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="t" layoutX="324.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="T">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="u" layoutX="388.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="U">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="v" layoutX="452.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="V">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="w" layoutX="516.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="W">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="x" layoutX="580.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="X">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="y" layoutX="644.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="Y">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="z" layoutX="708.0" layoutY="551.0" minWidth="60.0" mnemonicParsing="false" text="Z">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Line fx:id="HangingTop" endX="17.0" layoutX="420.0" layoutY="44.0" startX="-100.0" strokeWidth="3.0" />
+      <Line fx:id="HangingBody" endX="-46.505126953125" endY="-184.0" layoutX="366.0" layoutY="228.0" startX="-46.5051383972168" startY="2.8838067054748535" strokeWidth="3.0" />
+      <Line fx:id="HangingBase" endX="-42.5" layoutX="404.0" layoutY="233.0" startX="-100.0" />
+      <Circle fx:id="ManHead" fill="#1f93ff00" layoutX="435.0" layoutY="133.0" radius="12.0" stroke="BLACK" strokeType="INSIDE" />
+      <CubicCurve fx:id="ManBody" controlX1="4.0" controlX2="-11.5" controlY1="7.0" controlY2="-19.0" endX="5.5" endY="-24.25" fill="#1f93ff00" layoutX="418.0" layoutY="157.0" startX="-1.0" startY="34.25" stroke="BLACK" />
+      <CubicCurve fx:id="ManLeftHand" controlX1="-86.5" controlX2="-78.09124755859375" controlY1="-21.0" controlY2="4.0" endX="-86.5" endY="12.5" fill="#1f93ff00" layoutX="492.0" layoutY="162.0" startX="-68.89093017578125" startY="-29.10906982421875" stroke="BLACK" />
+      <CubicCurve fx:id="ManRightHand" controlX1="-86.5" controlX2="-63.0" controlY1="-18.0" controlY2="5.5" endX="-68.0" endY="16.5" fill="#1f93ff00" layoutX="496.0" layoutY="157.0" startX="-72.89093017578125" startY="-24.10906982421875" stroke="BLACK" />
+      <CubicCurve fx:id="ManLeftLeg" controlX1="-3.25" controlX2="-0.75" controlY1="15.5" controlY2="-3.25" endX="3.5" endY="-4.4131317138671875" fill="#1f93ff00" layoutX="414.0" layoutY="195.0" startX="2.04296875" startY="34.04087829589844" stroke="BLACK" />
+      <CubicCurve fx:id="ManRightLeg" controlX1="-69.0" controlX2="-69.0" controlY1="5.5" controlY2="19.5" endX="-67.5" endY="37.0" fill="#1f93ff00" layoutX="492.0" layoutY="191.0" startX="-74.75" startY="-0.4131317138671875" stroke="BLACK" />
+      <CubicCurve fx:id="HangingRope" controlX1="21.25" controlX2="7.0" controlY1="-54.75" controlY2="-15.0" endX="5.0" endY="21.0" fill="#1f93ff00" layoutX="418.0" layoutY="112.0" startX="18.75" startY="-68.0" stroke="BLACK" />
+   </children>
+</Pane>

@@ -1,0 +1,131 @@
+copy, Duplicate something exactly
+clear, Remove everything inside
+loop, Repeat until condition met
+break, Exit loop immediately
+local, Nearby or limited scope
+upper, Convert text to caps
+close, Shut down or finish
+zip, Compress files together
+read, Look at written text
+write, Put words on paper
+quick, Fast, without delay
+file, Collection of stored data
+index, Position in a list
+tree, Has roots, trunk, leaves
+graph, Nodes and connecting edges
+merge, Combine into one
+stack, Pile of elements
+node, Connection point in graph
+split, Break into pieces
+cache, Store for faster access
+input, What user provides
+find, Search and locate
+queue, Line waiting for turn
+count, Number of items
+class, Blueprint for objects
+range, Numbers from start to end
+sort, Arrange in order
+scope, Where variable is valid
+list, Collection of items
+path, Way to a location
+array, Indexed data structure
+pass, Skip or succeed
+edge, Boundary of a shape
+float, Decimal point number
+set, Collection of unique items
+slice, Cut a portion
+open, Make accessible
+apple, red or green fruit
+banana, long yellow tropical fruit
+guitar, six-string musical instrument
+pyramid, ancient triangular stone structure
+oxygen, gas essential for breathing
+mountain, very high natural landform
+river, natural flowing water stream
+desert, hot dry sandy area
+penguin, black white flightless bird
+tiger, striped big wild cat
+volcano, mountain with hot lava
+compass, tool that shows direction
+galaxy, massive group of stars
+planet, large body orbiting star
+pencil, tool for writing drawing
+notebook, pages bound for writing
+bridge, structure connects two places
+island, land surrounded by water
+forest, area filled with trees
+castle, large old stone fortress
+rainbow, arc of seven colors
+clock, shows time with hands
+mirror, reflects image of objects
+camera, device for taking photos
+engine, machine that powers vehicles
+market, place for buying goods
+school, place where students learn
+library, building storing many books
+doctor, person who treats patients
+teacher, person who teaches students
+rocket, vehicle that goes to space
+satellite, orbits planet in space
+dolphin, intelligent ocean mammal
+elephant, largest land animal
+kangaroo, marsupial with strong legs
+zebra, horse with black stripes
+lemon, sour yellow citrus fruit
+cactus, plant found in desert
+igloo, house made of snow
+train, vehicle runs on tracks
+airplane, flying passenger vehicle
+ship, large boat for sea
+lantern, portable light source
+helmet, protective head covering
+glove, clothing for the hand
+jungle, thick tropical forest
+honey, sweet food from bees
+bread, baked food from dough
+piano, large keyboard musical instrument
+drum, instrument you hit play
+violin, string instrument with bow
+robot, machine that can work
+hammer, tool used for nails
+ladder, used to climb height
+crown, worn by a king
+shield, protects from attacks
+armor, metal protection for body
+cloud, white shape in sky
+storm, violent weather with rain
+snow, frozen white ice crystals
+earth, planet we live on
+mars, red planet in space
+venus, hottest planet near sun
+jupiter, largest planet in system
+saturn, planet with many rings
+uranus, tilted planet with rings
+neptune, farthest planet from sun
+sun, star at solar center
+moon, natural satellite of earth
+star, shines brightly in night
+torch, stick with burning flame
+radio, device to play music
+television, device to watch shows
+computer, electronic device for work
+keyboard, used to type letters
+mouse, device to move pointer
+internet, connects computers worldwide
+email, electronic digital message
+puzzle, problem needing solution
+chess, strategy board game
+cricket, bat and ball game
+football, game with a round ball
+basketball, game with orange ball
+tennis, racket sport with net
+hockey, sport played on ice
+gold, precious yellow metal
+silver, shiny gray-white metal
+diamond, hardest precious stone
+pearl, gem from oysters
+copper, reddish-brown metal element
+iron, strong metal for building
+plastic, material made from chemicals
+glass, transparent brittle material
+paper, thin sheet for writing
